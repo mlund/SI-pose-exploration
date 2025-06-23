@@ -1,0 +1,846 @@
+ INFO  duello::energy > Adding Coulomb potential to nonbonded matrix
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 21). Alphas: 50, 50
+ DEBUG duello::structure > Read 7ktz.xyz: 𝑁=243, ∑𝑞ᵢ=4.17𝑒, ∑𝑚ᵢ=25247.63
+ DEBUG duello::structure > Read 7ktz.xyz: 𝑁=243, ∑𝑞ᵢ=4.17𝑒, ∑𝑚ᵢ=25247.63
+ INFO  duello            > Medium: 𝑇 = 300.00 K, εᵣ = 77.69, λᴮ = 7.17 Å, 𝐼 = 5.00 mM, λᴰ = 42.93 Å, 0.01 M 🧂Salt = NaCl
+ INFO  duello            > Molecular net-charges:    [4.17e, 4.17e]
+ INFO  duello            > Molecular dipole moments: [444.97 D, 444.97 D]
+ INFO  duello            > Molecular masses (g/mol): [25247.63, 25247.63]
+ INFO  duello            > COM range: [32.0, 60.0) in 1.0 Å steps 🐾
+ INFO  duello::icotable  > Actual angle resolution = 0.37 radians
+ INFO  duello::icoscan   > 6D table: 𝑅(28) x 𝜔(18) x 𝜃𝜑(92) x 𝜃𝜑(92) = 4265856 poses 💃🕺 (1.6 MB)
+ INFO  duello::report    > Second virial coefficient, 𝐵₂ = -120216.15 Å³
+ INFO  duello::report    >                               = -1.14e-4 mol⋅ml/g²
+ INFO  duello::report    > Reduced second virial coefficient, 𝐵₂ / 𝐵₂hs = -1.75 using σ = 32.00 Å
+ INFO  duello::report    > Dissociation constant, 𝐾𝑑 = 4.40e-3 mol/l using σ = 32.00 Å
+ INFO  duello::report    > Plot: [1;33mfree energy[0m and [1;31mmean energy[0m along mass center separation. In units of kT and angstroms.
+⡣⡈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⡁ 2.6
+⠄⠑⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠆⠠⠱⡄⠠⠀⠄⢠⣀⡄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⣀⣄⠤⠔⠖⢲⣒⡮⠭⠛⠟⠻⠛⠟⠫⠉⠍⠩⠉⠍⠩⠉⠍⠩⠃
+⡁⠀⠀⠑⠒⠢⠔⠁⠀⠈⠉⠒⠒⠤⠤⠤⠤⠤⠤⠤⠔⠒⠒⠒⠉⠉⠀⣀⠤⠊⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠤⠒⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠔⠒⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡠⠔⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠀⠀⠀⠀⠀⡠⠔⠊⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⡁⠀⠀⠀⠀⠀⢀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠖⠒⡆⠀⠀⠀⡸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠸⡀⠀⢀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⠅⠠⠀⠧⠤⠼⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠁ -11.5
+32.0                                          59.0
+
+ INFO  duello::energy > Adding Coulomb potential to nonbonded matrix
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 21). Alphas: 50, 50
+ DEBUG duello::structure > Read 7ktz.xyz: 𝑁=243, ∑𝑞ᵢ=4.17𝑒, ∑𝑚ᵢ=25247.63
+ DEBUG duello::structure > Read 7ktz.xyz: 𝑁=243, ∑𝑞ᵢ=4.17𝑒, ∑𝑚ᵢ=25247.63
+ INFO  duello            > Medium: 𝑇 = 300.00 K, εᵣ = 77.69, λᴮ = 7.17 Å, 𝐼 = 10.00 mM, λᴰ = 30.36 Å, 0.01 M 🧂Salt = NaCl
+ INFO  duello            > Molecular net-charges:    [4.17e, 4.17e]
+ INFO  duello            > Molecular dipole moments: [444.97 D, 444.97 D]
+ INFO  duello            > Molecular masses (g/mol): [25247.63, 25247.63]
+ INFO  duello            > COM range: [32.0, 60.0) in 1.0 Å steps 🐾
+ INFO  duello::icotable  > Actual angle resolution = 0.37 radians
+ INFO  duello::icoscan   > 6D table: 𝑅(28) x 𝜔(18) x 𝜃𝜑(92) x 𝜃𝜑(92) = 4265856 poses 💃🕺 (1.6 MB)
+ INFO  duello::report    > Second virial coefficient, 𝐵₂ = -203450.36 Å³
+ INFO  duello::report    >                               = -1.92e-4 mol⋅ml/g²
+ INFO  duello::report    > Reduced second virial coefficient, 𝐵₂ / 𝐵₂hs = -2.96 using σ = 32.00 Å
+ INFO  duello::report    > Dissociation constant, 𝐾𝑑 = 3.05e-3 mol/l using σ = 32.00 Å
+ INFO  duello::report    > Plot: [1;33mfree energy[0m and [1;31mmean energy[0m along mass center separation. In units of kT and angstroms.
+⡣⡈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⡁ 2.6
+⠄⠑⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠆⠠⢱⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⣀⣄⣠⡠⠤⢴⣒⡶⠶⠒⠖⠻⠛⠟⠻⠛⠟⠻⠛⠟⠫⠉⠍⠩⠃
+⡁⠀⠀⠣⠤⠤⠔⠊⠉⠉⠑⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠒⠒⠉⠉⠀⣀⠤⠊⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠤⠒⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠔⠒⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡠⠔⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠀⠀⠀⠀⠀⡠⠔⠊⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⡁⠀⠀⠀⠀⠀⢀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠖⠒⡆⠀⠀⠀⡸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠸⡀⠀⢀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⠅⠠⠀⠧⠤⠼⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠁ -11.5
+32.0                                          59.0
+
+ INFO  duello::energy > Adding Coulomb potential to nonbonded matrix
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 21). Alphas: 50, 50
+ DEBUG duello::structure > Read 7ktz.xyz: 𝑁=243, ∑𝑞ᵢ=4.17𝑒, ∑𝑚ᵢ=25247.63
+ DEBUG duello::structure > Read 7ktz.xyz: 𝑁=243, ∑𝑞ᵢ=4.17𝑒, ∑𝑚ᵢ=25247.63
+ INFO  duello            > Medium: 𝑇 = 300.00 K, εᵣ = 77.69, λᴮ = 7.17 Å, 𝐼 = 15.00 mM, λᴰ = 24.79 Å, 0.01 M 🧂Salt = NaCl
+ INFO  duello            > Molecular net-charges:    [4.17e, 4.17e]
+ INFO  duello            > Molecular dipole moments: [444.97 D, 444.97 D]
+ INFO  duello            > Molecular masses (g/mol): [25247.63, 25247.63]
+ INFO  duello            > COM range: [32.0, 60.0) in 1.0 Å steps 🐾
+ INFO  duello::icotable  > Actual angle resolution = 0.37 radians
+ INFO  duello::icoscan   > 6D table: 𝑅(28) x 𝜔(18) x 𝜃𝜑(92) x 𝜃𝜑(92) = 4265856 poses 💃🕺 (1.6 MB)
+ INFO  duello::report    > Second virial coefficient, 𝐵₂ = -231088.70 Å³
+ INFO  duello::report    >                               = -2.18e-4 mol⋅ml/g²
+ INFO  duello::report    > Reduced second virial coefficient, 𝐵₂ / 𝐵₂hs = -3.37 using σ = 32.00 Å
+ INFO  duello::report    > Dissociation constant, 𝐾𝑑 = 2.77e-3 mol/l using σ = 32.00 Å
+ INFO  duello::report    > Plot: [1;33mfree energy[0m and [1;31mmean energy[0m along mass center separation. In units of kT and angstroms.
+⡣⡈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⡁ 2.6
+⠄⠑⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠆⠠⢱⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⣠⡠⠤⢤⣤⡴⠶⠶⠶⠲⠒⠖⠲⠒⠖⠲⠒⠖⠲⠒⠖⠲⠂
+⡁⠀⠀⠣⠤⢄⡠⠊⠉⠑⠒⠤⠤⠤⠤⠤⢄⣀⡠⠤⠤⠤⠤⠤⠒⠒⠉⣉⠤⠔⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠤⠒⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠔⠒⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡠⠔⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠀⠀⠀⠀⠀⢀⡠⠔⠒⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⡁⠀⠀⠀⠀⠀⢀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠖⠒⡆⠀⠀⠀⡸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠸⡀⠀⢀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⠅⠠⠀⠧⠤⠼⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠁ -11.4
+32.0                                          59.0
+
+ INFO  duello::energy > Adding Coulomb potential to nonbonded matrix
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 21). Alphas: 50, 50
+ DEBUG duello::structure > Read 7ktz.xyz: 𝑁=243, ∑𝑞ᵢ=4.17𝑒, ∑𝑚ᵢ=25247.63
+ DEBUG duello::structure > Read 7ktz.xyz: 𝑁=243, ∑𝑞ᵢ=4.17𝑒, ∑𝑚ᵢ=25247.63
+ INFO  duello            > Medium: 𝑇 = 300.00 K, εᵣ = 77.69, λᴮ = 7.17 Å, 𝐼 = 20.00 mM, λᴰ = 21.47 Å, 0.02 M 🧂Salt = NaCl
+ INFO  duello            > Molecular net-charges:    [4.17e, 4.17e]
+ INFO  duello            > Molecular dipole moments: [444.97 D, 444.97 D]
+ INFO  duello            > Molecular masses (g/mol): [25247.63, 25247.63]
+ INFO  duello            > COM range: [32.0, 60.0) in 1.0 Å steps 🐾
+ INFO  duello::icotable  > Actual angle resolution = 0.37 radians
+ INFO  duello::icoscan   > 6D table: 𝑅(28) x 𝜔(18) x 𝜃𝜑(92) x 𝜃𝜑(92) = 4265856 poses 💃🕺 (1.6 MB)
+ INFO  duello::report    > Second virial coefficient, 𝐵₂ = -238702.66 Å³
+ INFO  duello::report    >                               = -2.26e-4 mol⋅ml/g²
+ INFO  duello::report    > Reduced second virial coefficient, 𝐵₂ / 𝐵₂hs = -3.48 using σ = 32.00 Å
+ INFO  duello::report    > Dissociation constant, 𝐾𝑑 = 2.70e-3 mol/l using σ = 32.00 Å
+ INFO  duello::report    > Plot: [1;33mfree energy[0m and [1;31mmean energy[0m along mass center separation. In units of kT and angstroms.
+⡣⡈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⡁ 2.7
+⠄⠑⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠆⠠⢱⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⣠⣀⣄⣠⣤⣤⣤⠶⠶⠶⠶⠶⠶⠒⠖⠲⠒⠖⠲⠒⠖⠲⠂
+⡁⠀⠀⠣⠤⢄⡠⠔⠒⠒⠒⠤⠤⣀⣀⣀⣀⣀⣀⣀⡠⠤⠤⠤⠒⠒⠉⣉⠤⠔⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠤⠒⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠔⠒⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡠⠔⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠀⠀⠀⠀⠀⢀⡠⠔⠒⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⡁⠀⠀⠀⠀⠀⢀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠖⠒⡇⠀⠀⠀⡸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠸⡀⠀⢀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⠅⠠⠀⠧⠤⠼⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠁ -11.2
+32.0                                          59.0
+
+ INFO  duello::energy > Adding Coulomb potential to nonbonded matrix
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 21). Alphas: 50, 50
+ DEBUG duello::structure > Read 7ktz.xyz: 𝑁=243, ∑𝑞ᵢ=4.17𝑒, ∑𝑚ᵢ=25247.63
+ DEBUG duello::structure > Read 7ktz.xyz: 𝑁=243, ∑𝑞ᵢ=4.17𝑒, ∑𝑚ᵢ=25247.63
+ INFO  duello            > Medium: 𝑇 = 300.00 K, εᵣ = 77.69, λᴮ = 7.17 Å, 𝐼 = 30.00 mM, λᴰ = 17.53 Å, 0.03 M 🧂Salt = NaCl
+ INFO  duello            > Molecular net-charges:    [4.17e, 4.17e]
+ INFO  duello            > Molecular dipole moments: [444.97 D, 444.97 D]
+ INFO  duello            > Molecular masses (g/mol): [25247.63, 25247.63]
+ INFO  duello            > COM range: [32.0, 60.0) in 1.0 Å steps 🐾
+ INFO  duello::icotable  > Actual angle resolution = 0.37 radians
+ INFO  duello::icoscan   > 6D table: 𝑅(28) x 𝜔(18) x 𝜃𝜑(92) x 𝜃𝜑(92) = 4265856 poses 💃🕺 (1.6 MB)
+ INFO  duello::report    > Second virial coefficient, 𝐵₂ = -233785.92 Å³
+ INFO  duello::report    >                               = -2.21e-4 mol⋅ml/g²
+ INFO  duello::report    > Reduced second virial coefficient, 𝐵₂ / 𝐵₂hs = -3.41 using σ = 32.00 Å
+ INFO  duello::report    > Dissociation constant, 𝐾𝑑 = 2.75e-3 mol/l using σ = 32.00 Å
+ INFO  duello::report    > Plot: [1;33mfree energy[0m and [1;31mmean energy[0m along mass center separation. In units of kT and angstroms.
+⡣⡈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⡁ 2.8
+⠄⠑⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⡂⢀⢱⡀⢀⠀⡀⢀⠀⡀⢀⠀⡀⢀⠀⡀⢀⠀⡀⢀⠀⡀⢀⠀⡀⢀⠀⡀⢀⢀⣀⣀⣀⣠⣤⣤⣤⢤⠤⡤⢤⠤⡤⢤⠤⡤⢤⠤⡤⢤⠆
+⡁⠀⠀⢇⣀⣀⡠⠔⠒⠢⠤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⠤⠤⠤⠤⠒⣒⠭⠕⠒⠊⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠤⠒⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠔⠒⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡠⠔⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠀⠀⠀⠀⠀⠀⢀⠔⠒⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⡁⠀⠀⠀⠀⠀⠀⡎⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠖⠒⡇⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠸⡀⠀⢀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⠅⠠⠀⠧⠤⠼⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠁ -11.0
+32.0                                          59.0
+
+ INFO  duello::energy > Adding Coulomb potential to nonbonded matrix
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 21). Alphas: 50, 50
+ DEBUG duello::structure > Read 7ktz.xyz: 𝑁=243, ∑𝑞ᵢ=4.17𝑒, ∑𝑚ᵢ=25247.63
+ DEBUG duello::structure > Read 7ktz.xyz: 𝑁=243, ∑𝑞ᵢ=4.17𝑒, ∑𝑚ᵢ=25247.63
+ INFO  duello            > Medium: 𝑇 = 300.00 K, εᵣ = 77.69, λᴮ = 7.17 Å, 𝐼 = 40.00 mM, λᴰ = 15.18 Å, 0.04 M 🧂Salt = NaCl
+ INFO  duello            > Molecular net-charges:    [4.17e, 4.17e]
+ INFO  duello            > Molecular dipole moments: [444.97 D, 444.97 D]
+ INFO  duello            > Molecular masses (g/mol): [25247.63, 25247.63]
+ INFO  duello            > COM range: [32.0, 60.0) in 1.0 Å steps 🐾
+ INFO  duello::icotable  > Actual angle resolution = 0.37 radians
+ INFO  duello::icoscan   > 6D table: 𝑅(28) x 𝜔(18) x 𝜃𝜑(92) x 𝜃𝜑(92) = 4265856 poses 💃🕺 (1.6 MB)
+ INFO  duello::report    > Second virial coefficient, 𝐵₂ = -221943.50 Å³
+ INFO  duello::report    >                               = -2.10e-4 mol⋅ml/g²
+ INFO  duello::report    > Reduced second virial coefficient, 𝐵₂ / 𝐵₂hs = -3.23 using σ = 32.00 Å
+ INFO  duello::report    > Dissociation constant, 𝐾𝑑 = 2.86e-3 mol/l using σ = 32.00 Å
+ INFO  duello::report    > Plot: [1;33mfree energy[0m and [1;31mmean energy[0m along mass center separation. In units of kT and angstroms.
+⡣⡈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⡁ 2.9
+⠄⠑⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⡂⢀⢱⡀⢀⠀⡀⢀⠀⡀⢀⠀⡀⢀⠀⡀⢀⠀⡀⢀⠀⡀⢀⠀⡀⢀⠀⡀⢀⠀⡀⢀⣀⣀⣀⣀⣀⣀⣀⣤⣤⣤⣤⣤⡤⡤⢤⠤⡤⢤⠆
+⡁⠀⠀⢇⣀⡀⢀⡠⠤⠤⠤⣀⣀⠀⠀⣀⡀⠀⠀⠀⢀⣀⣀⣀⠤⠤⠒⣒⠭⠝⠛⠋⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠄⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠉⠉⠀⠈⠉⠉⠉⠁⠀⠀⣀⠤⠒⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠔⠒⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡠⠔⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠀⠀⠀⠀⠀⠀⢀⡠⠔⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⡁⠀⠀⠀⠀⠀⠀⡎⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠖⠒⡇⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠸⡀⠀⢀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⠅⠠⠀⠧⠤⠼⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠁ -10.8
+32.0                                          59.0
+
+ INFO  duello::energy > Adding Coulomb potential to nonbonded matrix
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 21). Alphas: 50, 50
+ DEBUG duello::structure > Read 7ktz.xyz: 𝑁=243, ∑𝑞ᵢ=4.17𝑒, ∑𝑚ᵢ=25247.63
+ DEBUG duello::structure > Read 7ktz.xyz: 𝑁=243, ∑𝑞ᵢ=4.17𝑒, ∑𝑚ᵢ=25247.63
+ INFO  duello            > Medium: 𝑇 = 300.00 K, εᵣ = 77.69, λᴮ = 7.17 Å, 𝐼 = 60.00 mM, λᴰ = 12.39 Å, 0.06 M 🧂Salt = NaCl
+ INFO  duello            > Molecular net-charges:    [4.17e, 4.17e]
+ INFO  duello            > Molecular dipole moments: [444.97 D, 444.97 D]
+ INFO  duello            > Molecular masses (g/mol): [25247.63, 25247.63]
+ INFO  duello            > COM range: [32.0, 60.0) in 1.0 Å steps 🐾
+ INFO  duello::icotable  > Actual angle resolution = 0.37 radians
+ INFO  duello::icoscan   > 6D table: 𝑅(28) x 𝜔(18) x 𝜃𝜑(92) x 𝜃𝜑(92) = 4265856 poses 💃🕺 (1.6 MB)
+ INFO  duello::report    > Second virial coefficient, 𝐵₂ = -199241.89 Å³
+ INFO  duello::report    >                               = -1.88e-4 mol⋅ml/g²
+ INFO  duello::report    > Reduced second virial coefficient, 𝐵₂ / 𝐵₂hs = -2.90 using σ = 32.00 Å
+ INFO  duello::report    > Dissociation constant, 𝐾𝑑 = 3.10e-3 mol/l using σ = 32.00 Å
+ INFO  duello::report    > Plot: [1;33mfree energy[0m and [1;31mmean energy[0m along mass center separation. In units of kT and angstroms.
+⣣⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⡁ 3.1
+⠄⠣⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⡂
+⡁⠈⠈⡇⠈⠀⢁⡨⠤⢅⣈⣀⣁⠈⠀⠁⠈⠀⠁⠈⠀⠁⣈⣀⣁⣈⠤⠥⣚⠞⠛⠛⠛⠋⠉⠉⠉⠉⠉⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⡁
+⠄⠀⠀⠈⠉⠉⠁⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠉⠉⠉⠀⣀⠤⠒⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠔⠒⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠔⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠀⠀⠀⠀⠀⠀⢀⡠⠔⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⡁⠀⡀⠀⠀⠀⠀⡎⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠖⠉⢇⠀⠀⠀⡸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠸⡀⠀⢠⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⠅⠠⠀⠧⠤⠜⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠁ -10.6
+32.0                                          59.0
+
+ INFO  duello::energy > Adding Coulomb potential to nonbonded matrix
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 21). Alphas: 50, 50
+ DEBUG duello::structure > Read 7ktz.xyz: 𝑁=243, ∑𝑞ᵢ=4.17𝑒, ∑𝑚ᵢ=25247.63
+ DEBUG duello::structure > Read 7ktz.xyz: 𝑁=243, ∑𝑞ᵢ=4.17𝑒, ∑𝑚ᵢ=25247.63
+ INFO  duello            > Medium: 𝑇 = 300.00 K, εᵣ = 77.69, λᴮ = 7.17 Å, 𝐼 = 80.00 mM, λᴰ = 10.73 Å, 0.08 M 🧂Salt = NaCl
+ INFO  duello            > Molecular net-charges:    [4.17e, 4.17e]
+ INFO  duello            > Molecular dipole moments: [444.97 D, 444.97 D]
+ INFO  duello            > Molecular masses (g/mol): [25247.63, 25247.63]
+ INFO  duello            > COM range: [32.0, 60.0) in 1.0 Å steps 🐾
+ INFO  duello::icotable  > Actual angle resolution = 0.37 radians
+ INFO  duello::icoscan   > 6D table: 𝑅(28) x 𝜔(18) x 𝜃𝜑(92) x 𝜃𝜑(92) = 4265856 poses 💃🕺 (1.6 MB)
+ INFO  duello::report    > Second virial coefficient, 𝐵₂ = -182218.69 Å³
+ INFO  duello::report    >                               = -1.72e-4 mol⋅ml/g²
+ INFO  duello::report    > Reduced second virial coefficient, 𝐵₂ / 𝐵₂hs = -2.66 using σ = 32.00 Å
+ INFO  duello::report    > Dissociation constant, 𝐾𝑑 = 3.31e-3 mol/l using σ = 32.00 Å
+ INFO  duello::report    > Plot: [1;33mfree energy[0m and [1;31mmean energy[0m along mass center separation. In units of kT and angstroms.
+⣣⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⡁ 3.2
+⠄⠣⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⡁⠈⠈⡇⠈⠀⠁⢈⣀⣁⣈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⣁⣈⠤⠥⣚⡲⠷⠞⠛⠋⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⡁
+⠄⠀⠀⠈⠉⠉⠉⠁⠀⠀⠀⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⣉⣉⠤⠒⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠔⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠔⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠀⠀⠀⠀⠀⠀⠀⡠⠔⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⡁⠀⡀⠀⠀⠀⠀⡔⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠖⠉⢇⠀⠀⠀⢰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠸⡀⠀⢀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⠅⠠⠀⠧⠤⠜⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠁ -10.5
+32.0                                          59.0
+
+ INFO  duello::energy > Adding Coulomb potential to nonbonded matrix
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (0, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (1, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (2, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (3, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (4, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (5, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (6, 21). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 0). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 1). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 2). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 3). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 4). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 5). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 6). Alphas: 50, 50
+ DEBUG duello::energy > Adding ion-induced dipole term for atom pair (21, 21). Alphas: 50, 50
+ DEBUG duello::structure > Read 7ktz.xyz: 𝑁=243, ∑𝑞ᵢ=4.17𝑒, ∑𝑚ᵢ=25247.63
+ DEBUG duello::structure > Read 7ktz.xyz: 𝑁=243, ∑𝑞ᵢ=4.17𝑒, ∑𝑚ᵢ=25247.63
+ INFO  duello            > Medium: 𝑇 = 300.00 K, εᵣ = 77.69, λᴮ = 7.17 Å, 𝐼 = 100.00 mM, λᴰ = 9.60 Å, 0.10 M 🧂Salt = NaCl
+ INFO  duello            > Molecular net-charges:    [4.17e, 4.17e]
+ INFO  duello            > Molecular dipole moments: [444.97 D, 444.97 D]
+ INFO  duello            > Molecular masses (g/mol): [25247.63, 25247.63]
+ INFO  duello            > COM range: [32.0, 60.0) in 1.0 Å steps 🐾
+ INFO  duello::icotable  > Actual angle resolution = 0.37 radians
+ INFO  duello::icoscan   > 6D table: 𝑅(28) x 𝜔(18) x 𝜃𝜑(92) x 𝜃𝜑(92) = 4265856 poses 💃🕺 (1.6 MB)
+ INFO  duello::report    > Second virial coefficient, 𝐵₂ = -169768.09 Å³
+ INFO  duello::report    >                               = -1.60e-4 mol⋅ml/g²
+ INFO  duello::report    > Reduced second virial coefficient, 𝐵₂ / 𝐵₂hs = -2.47 using σ = 32.00 Å
+ INFO  duello::report    > Dissociation constant, 𝐾𝑑 = 3.48e-3 mol/l using σ = 32.00 Å
+ INFO  duello::report    > Plot: [1;33mfree energy[0m and [1;31mmean energy[0m along mass center separation. In units of kT and angstroms.
+⣣⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⠀⠁⠈⡁ 3.3
+⠄⠣⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⡃⠐⠈⡆⠐⠀⠂⢐⣀⣂⣐⠀⠂⠐⠀⠂⠐⠀⠂⠐⠀⠂⠐⠀⣂⣐⠤⠦⣴⡴⠶⠖⠒⠚⠛⠉⠋⠙⠉⠋⠙⠉⠋⠙⠉⠋⠙⠉⠋⠙⡁
+⠄⠀⠀⠈⠉⠉⠉⠁⠀⠀⠀⠉⠉⠒⠒⠉⠑⠒⠊⠉⠉⠉⣉⣉⠤⠒⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠔⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠔⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡠⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠀⠀⠀⠀⠀⠀⠀⡠⠊⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⡁⠀⡀⠀⠀⠀⠀⡔⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁
+⠖⠉⢇⠀⠀⠀⡸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄
+⠂⠀⠸⡀⠀⢠⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂
+⠅⠠⠀⠧⠴⠊⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠀⠄⠠⠁ -10.4
+32.0                                          59.0
+
