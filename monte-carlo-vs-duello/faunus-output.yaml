@@ -1,0 +1,91 @@
+medium:
+  permittivity: Water
+  salt:
+  - NaCl
+  - 0.005
+  temperature: 298.15
+cell: !Sphere
+  radius: 125.0
+blocks:
+- molecule: MOL1
+  N: 1
+  active: null
+  insert: !RandomCOM
+    filename: ../../assets/cppm-p18.xyz
+    rotate: true
+    directions: none
+    offset:
+    - 0.0
+    - 0.0
+    - 0.0
+- molecule: MOL2
+  N: 1
+  active: null
+  insert: !RandomCOM
+    filename: ../../assets/cppm-p18.xyz
+    rotate: true
+    directions: none
+    offset:
+    - 0.0
+    - 0.0
+    - 42.0
+propagate:
+  repeat: 1000000
+  seed: Hardware
+  collections:
+  - !Stochastic
+    repeat: 1
+    moves:
+    - !RotateMolecule
+      molecule: MOL1
+      max_displacement: 1.0
+      weight: 1.0
+      repeat: 1
+      statistics:
+        num_trials: 333280
+        num_accepted: 153222
+        mean_square_displacement:
+          avg: 0.1046354211147264
+          n: 333280
+        timer:
+          accumulated:
+            secs: 0
+            nanos: 0
+        info: {}
+        energy_change_sum: -786.9396181012103
+    - !RotateMolecule
+      molecule: MOL2
+      max_displacement: 1.0
+      weight: 1.0
+      repeat: 1
+      statistics:
+        num_trials: 333996
+        num_accepted: 153192
+        mean_square_displacement:
+          avg: 0.10457732340979287
+          n: 333996
+        timer:
+          accumulated:
+            secs: 0
+            nanos: 0
+        info: {}
+        energy_change_sum: 667.5706746243027
+    - !TranslateMolecule
+      molecule: MOL2
+      max_displacement: 10.0
+      weight: 1.0
+      repeat: 1
+      statistics:
+        num_trials: 332724
+        num_accepted: 175192
+        mean_square_displacement:
+          avg: 2.541217110820291
+          n: 332724
+        timer:
+          accumulated:
+            secs: 0
+            nanos: 0
+        info: {}
+        energy_change_sum: 99.14679713817708
+      directions: z
+  criterion: MetropolisHastings
