@@ -1,27 +1,9 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mlund/template-for-supporting-information/HEAD)
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-# Electronic Notebook: Title goes here
-
-Template for Notebooks for Supporting Information and Zenodo Deposition.
-
-## Instruction video
-[![Watch the video](https://img.youtube.com/vi/UhexcR2hQP4/hqdefault.jpg)](https://www.youtube.com/embed/UhexcR2hQP4)
-
-
-## Layout
-
-Description of the directory layout.
-
-- `README.md` This is the file you're viewing right now.
-- `environment.yml` Defines the required Python packages using conda. Try to pin to specific major versions of your
-  dependencies as their behavior may change in the future.
-  The environment is currently called `my_environment` and you'll likely want to rename it to something less generic.
-- `.zenodo.json` metadata for Zenodo.
-- `pyproject.toml` and `github/workflows/ruff.yml` sets up ruff linting for Python and Jupyter Notebooks. Delete if not relevant to your project.
+# Electronic Notebook: Intermolecular Pose Exploration using Subdivided Spheres
 
 ## Requirements
 
