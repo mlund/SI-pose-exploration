@@ -10,4 +10,7 @@ dependencies:
     - python=3
     - ruff
     - scipy=1
+    - sklearn
+    - mdtraj
+
  
