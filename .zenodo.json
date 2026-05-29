@@ -1,34 +1,33 @@
 {
-    "title": "Electronic Notebook: Github Template for Scientific Datasets to be Deposited on Zenodo.org",
-    "description": "This repository contains electronic notebooks (Jupyter) for reproducing the simulation results presented in ...",
+    "title": "Electronic Notebook: From Intermolecular Poses to Thermodynamics using Subdivided Spheres",
+    "description": "This repository contains electronic notebooks (Jupyter) for reproducing results presented in the above publication.",
     "creators": [
         {
-            "name": "Jane Doe",
-            "affiliation": "Some university...",
-            "orcid": "0000-0000-0000-0000"
-        }
-    ],
-    "contributors": [
+            "name": "Isabel Vinterbladh",
+            "affiliation": "Division of Theoretical Chemistry, Department of Chemistry, Lund University, Sweden",
+            "orcid": "0009-0007-0801-2611"
+        },
         {
-            "name": "Alfons Åberg",
-            "affiliation": "Department of ...",
-            "orcid": "0000-0000-0000-0000",
-            "type": "Researcher"
+            "name": "Mikael Lund",
+            "affiliation": "Division of Theoretical Chemistry, Department of Chemistry, Lund University, Sweden",
+            "orcid": "0000-0001-8178-8175"
         }
     ],
     "keywords": [
-        "reproducible science",
-        "electronic notebook"
+        "icosphere",
+        "protein-protein interactions",
+        "molecular simulation",
+        "statistical thermodynamics"
     ],
     "related_identifiers": [
         {
             "scheme": "url",
-            "identifier": "https://github.com/mlund/template-for-supporting-information",
+            "identifier": "https://github.com/mlund/SI-pose-exploration",
             "relation": "isSupplementTo"
         },
         {
             "scheme": "doi",
-            "identifier": "doi-goes-here",
+            "identifier": "10.1021/acs.jpcb.6c01665",
             "relation": "isSupplementTo",
             "resource_type": "publication-article"
         }
