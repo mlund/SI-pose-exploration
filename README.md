@@ -7,3 +7,16 @@
 # Electronic Notebook: From Intermolecular Poses to Thermodynamics using Subdivided Spheres
 
 This notebook contains supplementary data and workflows for the above article published in [ACS Journal of Physical Chemistry B, 2026](https://doi.org/10.1021/acs.jpcb.6c01665).
+
+## Reproducing the environment
+
+Dependencies are managed with [uv](https://docs.astral.sh/uv/). To recreate the
+exact environment used for the notebooks:
+
+```sh
+uv sync
+uv run jupyter lab
+```
+
+`uv sync` reads `pyproject.toml` and `uv.lock` and installs the pinned versions
+into a local `.venv`.
