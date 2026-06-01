@@ -37,5 +37,5 @@ into a local `.venv`.
 
 ```sh
 uv run ruff check     # lint notebooks and .py scripts
-uv run ruff format    # format .py scripts (notebooks are excluded)
+uv run ruff format    # format notebooks and .py scripts
 ```
