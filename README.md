@@ -5,15 +5,4 @@
 
 # Electronic Notebook: From Intermolecular Poses to Thermodynamics using Subdivided Spheres
 
-## Requirements
-
-To run the Notebooks online, click on the _Launch Binder_ badge above. Alternatively, to run on your own computer,
-install Python using _e.g._ [Miniforge](https://github.com/conda-forge/miniforge) or [Anaconda](https://docs.conda.io)
-and make sure all required packages are loaded by issuing the following terminal commands
-
-``` bash
-conda env create -f environment.yml
-source activate my_environment
-jupyter-lab
-```
-
+This notebook contains supplementary data and workflows for the above article published in [ACS Journal of Physical Chemistry B, 2026](10.1021/acs.jpcb.6c01665).
